@@ -9,4 +9,4 @@ Currently, two official plugins are available:
 
 #  Preview 
 
-https://vercel.com/syusina/player
+[https://vercel.com/syusina/player](https://player-two-pi.vercel.app/)
